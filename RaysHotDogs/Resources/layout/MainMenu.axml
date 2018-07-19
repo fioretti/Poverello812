@@ -28,10 +28,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mapButton" />
-  <Button
-     android:text="About Ray's Hot Dogs"
-     android:layout_width="match_parent"
-     android:layout_height="wrap_content"
-     android:id="@+id/aboutButton" />
-   
+    <Button
+        android:text="About Ray's Hot Dogs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutButton" />
 </LinearLayout>
